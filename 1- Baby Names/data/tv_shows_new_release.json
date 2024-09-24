@@ -1,0 +1,121 @@
+[
+    {
+        "tv_show_name": "Game of Thrones",
+        "characters": [
+            "Daenerys Targaryen",
+            "Tyrion Lannister",
+            "Jon Snow",
+            "Cersei Lannister",
+            "Sansa Stark",
+            "Arya Stark"
+        ],
+        "release_year": 2011
+    },
+    {
+        "tv_show_name": "Breaking Bad",
+        "characters": [
+            "Walter White",
+            "Jesse Pinkman",
+            "Skyler White",
+            "Marie Schrader",
+            "Hank Schrader"
+        ],
+        "release_year": 2008
+    },
+    {
+        "tv_show_name": "Stranger Things",
+        "characters": [
+            "Eleven",
+            "Mike Wheeler",
+            "Joyce Byers",
+            "Jim Hopper",
+            "Dustin Henderson",
+            "Lucas Sinclair"
+        ],
+        "release_year": 2016
+    },
+    {
+        "tv_show_name": "Friends",
+        "characters": [
+            "Rachel Green",
+            "Monica Geller",
+            "Phoebe Buffay",
+            "Joey Tribbiani",
+            "Chandler Bing",
+            "Ross Geller"
+        ],
+        "release_year": 1994
+    },
+    {
+        "tv_show_name": "The Walking Dead",
+        "characters": [
+            "Rick Grimes",
+            "Daryl Dixon",
+            "Carol Peletier",
+            "Maggie Rhee",
+            "Rosita Espinosa",
+            "Eugene Porter"
+        ],
+        "release_year": 2010
+    },
+    {
+        "tv_show_name": "Sherlock",
+        "characters": [
+            "Sherlock Holmes",
+            "John Watson",
+            "Martha Hudson",
+            "Greg Lestrade",
+            "Molly Hooper",
+            "Mycroft Holmes"
+        ],
+        "release_year": 2010
+    },
+    {
+        "tv_show_name": "The Big Bang Theory",
+        "characters": [
+            "Leonard Hofstadter",
+            "Sheldon Cooper",
+            "Penny",
+            "Howard Wolowitz",
+            "Raj Koothrappali",
+            "Bernadette Rostenkowski"
+        ],
+        "release_year": 2007
+    },
+    {
+        "tv_show_name": "Dexter",
+        "characters": [
+            "Dexter Morgan",
+            "Debra Morgan",
+            "Angel Batista",
+            "Harry Morgan",
+            "Vince Masuka",
+            "Maria LaGuerta"
+        ],
+        "release_year": 2006
+    },
+    {
+        "tv_show_name": "How I Met Your Mother",
+        "characters": [
+            "Ted Mosby",
+            "Marshall Eriksen",
+            "Robin Scherbatsky",
+            "Barney Stinson",
+            "Lily Aldrin",
+            "Tracy McConnell"
+        ],
+        "release_year": 2005
+    },
+    {
+        "tv_show_name": "The Office",
+        "characters": [
+            "Michael Scott",
+            "Pamela Beesly",
+            "Jim Halpert",
+            "Dwight Schrute",
+            "Stanley Hudson",
+            "Kevin Malone"
+        ],
+        "release_year": 2005
+    }
+]

@@ -1,0 +1,471 @@
+Year,Rank,Title,Gross,Villain,Origin
+1977,1,Star Wars: Episode IV - A New Hope,"$307,263,857",Darth Vader,Tatooine
+1977,2,Smokey and the Bandit,"$126,737,428",Sheriff Buford T. Justice,"Texas, USA"
+1977,3,Close Encounters of the Third Kind,"$116,395,460",,
+1977,4,Saturday Night Fever,"$94,213,184",,
+1977,5,A Bridge Too Far,"$50,750,000",German Forces,Germany
+1977,6,The Deep,"$47,346,365",Henri Cloche,France
+1977,7,The Spy Who Loved Me,"$46,838,673",Karl Stromberg,Italy
+1977,8,"Oh, God!","$41,687,243",,
+1977,9,Annie Hall,"$38,251,425",,
+1977,10,Semi-Tough,"$37,187,139",,
+1978,1,Grease,"$159,978,870",,
+1978,2,Superman,"$134,218,018",Lex Luthor,Metropolis
+1978,3,National Lampoon's Animal House,"$120,091,123",Dean Vernon Wormer,United States
+1978,4,Every Which Way But Loose,"$85,196,485",,
+1978,5,Heaven Can Wait,"$81,640,278",,
+1978,6,Hooper,"$78,000,000",,
+1978,7,Jaws 2,"$77,737,272",The Shark,Amity Island
+1978,8,Revenge of the Pink Panther,"$49,579,269",Philippe Douvier,France
+1978,9,The Deer Hunter,"$48,979,328",,
+1978,10,Halloween,"$47,000,000",Michael Myers,"Haddonfield, Illinois"
+1979,1,Kramer vs. Kramer,"$106,260,000",,
+1979,2,The Amityville Horror,"$86,432,000",The House,"112 Ocean Avenue, Amityville, New York"
+1979,3,Rocky II,"$85,182,160",Apollo Creed,"Los Angeles, USA"
+1979,4,Star Trek: The Motion Picture,"$82,258,456",V'Ger,Canada
+1979,5,Alien,"$78,944,891",The Xenomorph,France
+1979,6,Apocalypse Now,"$78,784,010",Colonel Kurtz,Cambodia
+1979,7,10,"$74,865,517",,
+1979,8,The Jerk,"$73,691,419",,
+1979,9,Moonraker,"$70,308,099",Hugo Drax,United States
+1979,10,The Muppet Movie,"$65,200,000",Doc Hopper,United Kingdom
+1980,1,Star Wars: Episode V - The Empire Strikes Back,"$209,398,025",Darth Vader,Tatooine
+1980,2,9 to 5,"$103,290,500",Franklin Hart Jr.,Netherlands
+1980,3,Stir Crazy,"$101,300,000",,
+1980,4,Airplane!,"$83,453,539",,
+1980,5,Any Which Way You Can,"$70,687,344",,
+1980,6,Private Benjamin,"$69,847,348",,
+1980,7,Coal Miner's Daughter,"$67,182,787",,
+1980,8,Smokey and the Bandit II,"$66,132,626",Buford T. Justice,Australia
+1980,9,The Blue Lagoon,"$58,853,106",,
+1980,10,The Blues Brothers,"$57,229,890",Illinois Nazis,New Zealand
+1981,1,Raiders of the Lost Ark,"$212,222,025",René Belloq,France
+1981,2,On Golden Pond,"$119,285,432",,
+1981,3,Superman II,"$108,185,706",General Zod,Krypton
+1981,4,Arthur,"$95,461,682",,
+1981,5,Stripes,"$85,297,000",Sgt. Hulka,"Illinois, USA"
+1981,6,The Cannonball Run,"$72,179,579",,
+1981,7,Chariots of Fire,"$58,972,904",,
+1981,8,For Your Eyes Only,"$54,812,802",Aristotle Kristatos,Greece
+1981,9,The Four Seasons,"$50,427,646",,
+1981,10,Time Bandits,"$42,365,581",Evil,Japan
+1982,1,E.T. the Extra-Terrestrial,"$359,197,037",Keys,United States
+1982,2,Tootsie,"$177,200,000",,
+1982,3,An Officer and a Gentleman,"$129,795,554",Sgt. Emil Foley,United States
+1982,4,Rocky III,"$124,146,897",Clubber Lang,United States
+1982,5,Porky's,"$105,492,483",,
+1982,6,Star Trek II: The Wrath of Khan,"$78,912,963",Khan Noonien Singh,India
+1982,7,48 Hrs.,"$78,868,508",Albert Ganz,
+1982,8,Poltergeist,"$76,606,280",The Beast,
+1982,9,The Best Little Whorehouse in Texas,"$69,701,637",Melvin P. Thorpe,
+1982,10,Annie,"$57,059,003",Miss Hannigan,
+1983,1,Star Wars: Episode VI - Return of the Jedi,"$252,583,617",Emperor Palpatine,
+1983,2,Terms of Endearment,"$108,423,489",,
+1983,3,Flashdance,"$92,921,203",,
+1983,4,Trading Places,"$90,404,800",Randolph and Mortimer Duke,Italy
+1983,5,WarGames,"$79,567,667",WOPR,Greenland
+1983,6,Octopussy,"$67,893,619",Kamal Khan,India
+1983,7,Sudden Impact,"$67,642,693",Jennifer Spencer,
+1983,8,Staying Alive,"$64,892,670",,
+1983,9,Mr. Mom,"$64,783,827",,
+1983,10,Risky Business,"$63,541,777",Guido,Argentina
+1984,1,Beverly Hills Cop,"$234,760,478",Victor Maitland,
+1984,2,Ghostbusters,"$229,242,989",Gozer,United States
+1984,3,Indiana Jones and the Temple of Doom,"$179,870,271",Mola Ram,India
+1984,4,Gremlins,"$148,168,459",Stripe,China
+1984,5,The Karate Kid,"$90,815,558",Cheng,China
+1984,6,Police Academy,"$81,198,894",Lieutenant Harris,
+1984,7,Footloose,"$80,035,402",Reverend Shaw Moore,
+1984,8,Romancing the Stone,"$76,572,238",Zolo,Colombia
+1984,9,Star Trek III: The Search for Spock,"$76,471,046",Kruge,
+1984,10,Splash,"$69,821,334",Walter Kornbluth,
+1985,1,Back to the Future,"$211,850,472",Biff Tannen,Germany
+1985,2,Rambo: First Blood Part II,"$150,415,432",Lieutenant Tay,
+1985,3,Rocky IV,"$127,873,716",Ivan Drago,Russia
+1985,4,The Color Purple,"$94,175,854",Albert Johnson,
+1985,5,Out of Africa,"$87,071,205",,
+1985,6,Cocoon,"$76,113,124",Walter,
+1985,7,The Jewel of the Nile,"$75,973,200",Omar,France
+1985,8,Witness,"$68,706,993",McFee,
+1985,9,The Goonies,"$61,389,680",Mama Fratelli,Australia
+1985,10,Spies Like Us,"$60,088,980",Soviet Military,Afghanistan
+1986,1,Top Gun,"$176,781,728",,
+1986,2,Crocodile Dundee,"$174,803,506",,
+1986,3,Platoon,"$138,530,565",Sgt. Barnes,Philippines
+1986,4,The Karate Kid Part II,"$115,103,979",Chozen Toguchi,Japan
+1986,5,Star Trek IV: The Voyage Home,"$109,713,132",,
+1986,6,Back to School,"$91,258,000",Dr. Philip Barbay,
+1986,7,Aliens,"$85,160,248",The Xenomorph Queen,
+1986,8,The Golden Child,"$79,817,937",Sardo Numspa,
+1986,9,Ruthless People,"$71,624,879",Ken and Sandy Kessler,
+1986,10,Ferris Bueller's Day Off,"$70,136,369",Ed Rooney,Brazil
+1987,1,Three Men and a Baby,"$167,780,960",Drug Dealers,Indonesia
+1987,2,Fatal Attraction,"$156,645,693",Alex Forrest,
+1987,3,Beverly Hills Cop II,"$153,665,036",Maxwell Dent,Costa Rica
+1987,4,"Good Morning, Vietnam","$123,922,370",Lt. Steven Hauk,
+1987,5,Moonstruck,"$80,640,528",,
+1987,6,The Untouchables,"$76,270,454",Al Capone,United States
+1987,7,The Secret of My Success,"$66,995,879",Howard Prescott,
+1987,8,Stakeout,"$65,673,233",Richard 'Stick' Montgomery,United Kingdom
+1987,9,Lethal Weapon,"$65,207,127",The General,South Africa
+1987,10,The Witches of Eastwick,"$63,766,510",Daryl Van Horne,
+1988,1,Rain Man,"$172,825,435",,
+1988,2,Who Framed Roger Rabbit,"$156,452,370",Judge Doom,
+1988,3,Coming to America,"$128,152,301",,
+1988,4,Big,"$114,968,774",Paul Davenport,
+1988,5,Twins,"$111,938,388",Webster,Italy
+1988,6,Crocodile Dundee II,"$109,306,210",Rico,Colombia
+1988,7,Die Hard,"$83,008,852",Hans Gruber,Germany
+1988,8,The Naked Gun: From the Files of Police Squad!,"$78,756,177",Vincent Ludwig,
+1988,9,Cocktail,"$78,222,753",Doug Coughlin,United States
+1988,10,Beetlejuice,"$73,707,461",Beetlejuice,
+1989,1,Batman,"$251,188,924",The Joker,Gotham City
+1989,2,Indiana Jones and the Last Crusade,"$197,171,806",Walter Donovan,United States
+1989,3,Lethal Weapon 2,"$147,253,986",Arjen Rudd,South Africa
+1989,4,Look Who's Talking,"$140,088,813",,
+1989,5,"Honey, I Shrunk the Kids","$130,724,172",,
+1989,6,Back to the Future Part II,"$118,450,002",Biff Tannen,
+1989,7,Ghostbusters II,"$112,494,738",Vigo the Carpathian,United States
+1989,8,Driving Miss Daisy,"$106,593,296",,
+1989,9,Parenthood,"$100,047,830",,
+1989,10,Dead Poets Society,"$95,860,116",Gale Nolan,United States
+1990,1,Home Alone,"$285,761,243",Harry and Marv,United States
+1990,2,Ghost,"$217,631,306",Carl Bruner,Thailand
+1990,3,Dances with Wolves,"$184,208,848",,
+1990,4,Pretty Woman,"$178,406,268",Philip Stuckey,
+1990,5,Teenage Mutant Ninja Turtles,"$135,265,915",The Shredder,Japan
+1990,6,The Hunt for Red October,"$122,012,643",Captain Ramius,United States
+1990,7,Total Recall,"$119,394,840",Vilos Cohaagen,
+1990,8,Die Hard 2,"$117,540,947",Colonel Stuart,United States
+1990,9,Dick Tracy,"$103,738,726",Big Boy Caprice,
+1990,10,Kindergarten Cop,"$91,457,688",Cullen Crisp,United Kingdom
+1991,1,Terminator 2: Judgment Day,"$204,843,345",T-1000,Mali
+1991,2,Robin Hood: Prince of Thieves,"$165,493,908",Sheriff of Nottingham,Austria
+1991,3,Beauty and the Beast,"$145,863,363",Gaston,France
+1991,4,The Silence of the Lambs,"$130,742,922",Hannibal Lecter,Lithuania
+1991,5,City Slickers,"$124,033,791",,
+1991,6,Hook,"$119,654,823",Captain Hook,Neverland
+1991,7,The Addams Family,"$113,502,426",Tully Alford,Australia
+1991,8,Sleeping with the Enemy,"$101,599,005",Martin Burney,
+1991,9,Father of the Bride,"$89,325,780",,
+1991,10,The Naked Gun 2½: The Smell of Fear,"$86,930,411",Quentin Hapsburg,
+1992,1,Aladdin,"$217,350,219",Jafar,Agrabah
+1992,2,Home Alone 2: Lost in New York,"$173,585,516",Harry and Marv,Canada
+1992,3,Batman Returns,"$162,831,698",The Penguin,Gotham City
+1992,4,Lethal Weapon 3,"$144,731,527",Jack Travis,
+1992,5,A Few Good Men,"$141,340,178",Colonel Jessup,
+1992,6,Sister Act,"$139,605,150",Vince LaRocca,
+1992,7,The Bodyguard,"$121,945,720",Greg Portman,
+1992,8,Wayne's World,"$121,697,323",Benjamin Kane,
+1992,9,Basic Instinct,"$117,727,224",Catherine Tramell,Australia
+1992,10,A League of Their Own,"$107,533,928",,
+1993,1,Jurassic Park,"$357,067,947",Dennis Nedry,Isla Sorna
+1993,2,Mrs. Doubtfire,"$219,195,243",,
+1993,3,The Fugitive,"$183,875,760",Dr. Charles Nichols,
+1993,4,The Firm,"$158,348,367",The Firm,
+1993,5,Sleepless in Seattle,"$126,680,884",,
+1993,6,Indecent Proposal,"$106,614,059",John Gage,
+1993,7,In the Line of Fire,"$102,314,823",Mitch Leary,
+1993,8,The Pelican Brief,"$100,768,056",Victor Mattiece,
+1993,9,Schindler's List,"$96,065,768",Amon Goeth,Austria
+1993,10,Cliffhanger,"$84,049,211",Eric Qualen,Paraguay
+1994,1,Forrest Gump,"$329,694,499",,
+1994,2,The Lion King,"$312,855,561",Scar,Japan
+1994,3,True Lies,"$146,282,411",Salim Abu Aziz,Switzerland
+1994,4,The Santa Clause,"$144,833,357",,
+1994,5,The Flintstones,"$130,531,208",Cliff Vandercave,Bedrock
+1994,6,Dumb and Dumber,"$127,175,374",Joe Mentalino,
+1994,7,Clear and Present Danger,"$122,187,717",Ernesto Escobedo,Colombia
+1994,8,Speed,"$121,248,145",Howard Payne,
+1994,9,The Mask,"$119,938,730",Dorian Tyrell,Ireland
+1994,10,Pulp Fiction,"$107,928,762",Marsellus Wallace,United States
+1995,1,Toy Story,"$191,796,233",Sid,Canada
+1995,2,Batman Forever,"$184,031,112",The Riddler,Gotham City
+1995,3,Apollo 13,"$172,071,312",,
+1995,4,Pocahontas,"$141,579,773",Governor Ratcliffe,
+1995,5,Ace Ventura: When Nature Calls,"$108,385,533",Vincent Cadby,
+1995,6,GoldenEye,"$106,429,941",Alec Trevelyan,France
+1995,7,Jumanji,"$100,475,249",Van Pelt,
+1995,8,Casper,"$100,439,549",Carrigan Crittenden,
+1995,9,Se7en,"$100,125,643",John Doe,Australia
+1995,10,Die Hard with a Vengeance,"$100,012,499",Simon Gruber,Germany
+1996,1,Independence Day,"$306,169,268",The Aliens,
+1996,2,Twister,"$241,721,524",,
+1996,3,Mission: Impossible,"$180,981,856",Jim Phelps,United States
+1996,4,Jerry Maguire,"$153,952,592",,
+1996,5,Ransom,"$136,492,681",Jimmy Shaker,
+1996,6,101 Dalmatians,"$136,189,294",Cruella de Vil,Switzerland
+1996,7,The Rock,"$134,069,511",General Hummel,
+1996,8,The Nutty Professor,"$128,814,019",,
+1996,9,The Birdcage,"$124,060,553",,
+1996,10,A Time to Kill,"$108,766,007",Billy Ray Cobb,
+1997,1,Titanic,"$600,683,057",Cal Hockley,United States
+1997,2,Men in Black,"$250,690,539",Edgar the Bug,
+1997,3,The Lost World: Jurassic Park,"$229,086,679",Peter Ludlow,Isla Sorna
+1997,4,Liar Liar,"$181,410,615",,
+1997,5,Air Force One,"$172,956,409",Ivan Korshunov,Afghanistan
+1997,6,As Good as It Gets,"$148,478,011",,
+1997,7,Good Will Hunting,"$138,433,435",,
+1997,8,Star Wars: Episode IV - A New Hope1997 Special Edition,"$138,257,865",Darth Vader,Tatooine
+1997,9,My Best Friend's Wedding,"$127,120,029",,
+1997,10,Tomorrow Never Dies,"$125,304,276",Elliot Carver,China
+1998,1,Saving Private Ryan,"$216,540,909",,
+1998,2,Armageddon,"$201,578,182",The Asteroid,
+1998,3,There's Something About Mary,"$176,484,651",Pat Healy,Cuba
+1998,4,A Bug's Life,"$162,798,565",Hopper,United Kingdom
+1998,5,The Waterboy,"$161,491,646",,
+1998,6,Doctor Dolittle,"$144,156,605",Dr. Mark Weller,
+1998,7,Rush Hour,"$141,186,864",Juntao (Thomas Griffin),Hong Kong
+1998,8,Deep Impact,"$140,464,664",The Comet,
+1998,9,Godzilla,"$136,314,294",Godzilla,Japan
+1998,10,Patch Adams,"$135,026,902",Dean Walcott,
+1999,1,Star Wars: Episode I - The Phantom Menace,"$431,088,295",Darth Maul,Tunisia
+1999,2,The Sixth Sense,"$293,506,292",,
+1999,3,Toy Story 2,"$245,852,179",Stinky Pete,Canada
+1999,4,Austin Powers: The Spy Who Shagged Me,"$206,040,086",Dr. Evil,Belgium
+1999,5,The Matrix,"$171,479,930",Agent Smith,Chad
+1999,6,Tarzan,"$171,091,819",Clayton,
+1999,7,Big Daddy,"$163,479,795",,
+1999,8,The Mummy,"$155,516,138",Imhotep,Egypt
+1999,9,Runaway Bride,"$152,257,509",,
+1999,10,The Blair Witch Project,"$140,539,099",The Blair Witch,Canada
+2000,1,How the Grinch Stole Christmas,"$260,745,620",The Grinch,Whoville
+2000,2,Cast Away,"$233,632,142",,
+2000,3,Mission: Impossible II,"$215,409,889",Sean Ambrose,
+2000,4,Gladiator,"$187,705,427",Commodus,
+2000,5,What Women Want,"$182,811,707",,
+2000,6,The Perfect Storm,"$182,618,434",The Storm,
+2000,7,Meet the Parents,"$166,244,045",,
+2000,8,X-Men,"$157,299,718",Magneto,Germany
+2000,9,Scary Movie,"$157,019,771",The Killer,Dominican Republic
+2000,10,What Lies Beneath,"$155,464,351",Madison Elizabeth Frank,
+2001,1,Harry Potter and the Sorcerer's Stone,"$317,575,550",Voldemort,"Little Hangleton, England"
+2001,2,The Lord of the Rings: The Fellowship of the Ring,"$313,364,114",Sauron,Middle-earth
+2001,3,Shrek,"$267,851,831",Lord Farquaad,Duloc
+2001,4,"Monsters, Inc.","$255,873,250",Randall Boggs,Monstropolis
+2001,5,Rush Hour 2,"$226,164,286",Ricky Tan,Hong Kong
+2001,6,The Mummy Returns,"$202,019,785",Imhotep,Egypt
+2001,7,Pearl Harbor,"$198,542,554",,
+2001,8,Ocean's Eleven,"$183,417,150",Terry Benedict,
+2001,9,Jurassic Park III,"$181,171,875",Spinosaurus,Isla Sorna
+2001,10,Planet of the Apes,"$180,011,740",General Thade,New Zealand
+2002,1,Spider-Man,"$403,706,375",Green Goblin,"New York City, USA"
+2002,2,The Lord of the Rings: The Two Towers,"$339,789,881",Saruman,Middle-earth
+2002,3,Star Wars: Episode II - Attack of the Clones,"$302,191,252",Count Dooku,Australia
+2002,4,Harry Potter and the Chamber of Secrets,"$261,988,482",Tom Riddle,
+2002,5,My Big Fat Greek Wedding,"$241,438,208",,
+2002,6,Signs,"$227,966,634",The Aliens,
+2002,7,Austin Powers in Goldmember,"$213,307,889",Goldmember,
+2002,8,Men in Black II,"$190,418,803",Serleena,
+2002,9,Ice Age,"$176,387,405",,
+2002,10,Chicago,"$170,687,518",,
+2003,1,The Lord of the Rings: The Return of the King,"$377,027,325",Sauron,Middle-earth
+2003,2,Finding Nemo,"$339,714,978",Darla,Canada
+2003,3,Pirates of the Caribbean: The Curse of the Black Pearl,"$305,413,918",Captain Barbossa,India
+2003,4,The Matrix Reloaded,"$281,576,461",Agent Smith,Australia
+2003,5,Bruce Almighty,"$242,829,261",,
+2003,6,X2: X-Men United,"$214,949,694",William Stryker,
+2003,7,Elf,"$173,398,518",,
+2003,8,Terminator 3: Rise of the Machines,"$150,371,112",T-X,Argentina
+2003,9,The Matrix Revolutions,"$139,313,948",Agent Smith,Canada
+2003,10,Cheaper by the Dozen,"$138,614,544",,
+2004,1,Shrek 2,"$441,426,807",Fairy Godmother,United States
+2004,2,Spider-Man 2,"$373,585,825",Doctor Octopus,Australia
+2004,3,The Passion of the Christ,"$370,274,604",Satan,Philippines
+2004,4,Meet the Fockers,"$279,261,160",,
+2004,5,The Incredibles,"$261,441,092",Syndrome,United States
+2004,6,Harry Potter and the Prisoner of Azkaban,"$249,541,069",Sirius Black,United Kingdom
+2004,7,The Day After Tomorrow,"$186,740,799",The Storm,Canada
+2004,8,The Bourne Supremacy,"$176,241,941",Kirill,
+2004,9,National Treasure,"$173,008,894",Ian Howe,
+2004,10,The Polar Express,"$162,775,358",,
+2005,1,Star Wars: Episode III - Revenge of the Sith,"$380,270,577",Darth Sidious,Australia
+2005,2,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","$291,710,957",The White Witch,Narnia
+2005,3,Harry Potter and the Goblet of Fire,"$290,013,036",Voldemort,"Little Hangleton, England"
+2005,4,War of the Worlds,"$234,280,354",The Aliens,
+2005,5,King Kong,"$218,080,025",The V-Rex,Australia
+2005,6,Wedding Crashers,"$209,255,921",,
+2005,7,Charlie and the Chocolate Factory,"$206,459,076",,
+2005,8,Batman Begins,"$205,343,774",Ra's al Ghul,Gotham City
+2005,9,Madagascar,"$193,595,521",,
+2005,10,Mr. & Mrs. Smith,"$186,336,279",The Agencies,
+2006,1,Pirates of the Caribbean: Dead Man's Chest,"$423,315,812",Davy Jones,
+2006,2,Night at the Museum,"$250,863,268",Cecil Fredericks,
+2006,3,Cars,"$244,082,982",Chick Hicks,Australia
+2006,4,X-Men: The Last Stand,"$234,362,462",Jean Grey / Phoenix,United States
+2006,5,The Da Vinci Code,"$217,536,138",Sir Leigh Teabing,
+2006,6,Superman Returns,"$200,081,192",Lex Luthor,Metropolis
+2006,7,Happy Feet,"$198,000,317",,
+2006,8,Ice Age: The Meltdown,"$195,330,621",,
+2006,9,Casino Royale,"$167,445,960",Le Chiffre,Germany
+2006,10,The Pursuit of Happyness,"$163,566,459",,
+2007,1,Spider-Man 3,"$336,530,303",Venom,United States
+2007,2,Shrek the Third,"$322,719,944",Prince Charming,United Kingdom
+2007,3,Transformers,"$319,246,193",Megatron,United Kingdom
+2007,4,Pirates of the Caribbean: At World's End,"$309,420,425",Davy Jones,India
+2007,5,Harry Potter and the Order of the Phoenix,"$292,004,738",Dolores Umbridge,
+2007,6,I Am Legend,"$256,393,010",The Infected,
+2007,7,The Bourne Ultimatum,"$227,471,070",Noah Vosen,
+2007,8,National Treasure: Book of Secrets,"$219,964,115",Mitch Wilkinson,
+2007,9,Alvin and the Chipmunks,"$217,326,974",Ian Hawke,
+2007,10,300,"$210,614,939",Xerxes,
+2008,1,The Dark Knight,"$533,345,358",The Joker,Gotham City
+2008,2,Iron Man,"$318,604,126",Obadiah Stane,United States
+2008,3,Indiana Jones and the Kingdom of the Crystal Skull,"$317,101,119",Irina Spalko,Peru
+2008,4,Hancock,"$227,946,274",Red,Belgium
+2008,5,WALL·E,"$223,808,164",Auto,Japan
+2008,6,Kung Fu Panda,"$215,434,591",Tai Lung,China
+2008,7,Twilight,"$192,769,854",James,
+2008,8,Madagascar: Escape 2 Africa,"$180,010,950",Makunga,Madagascar
+2008,9,Quantum of Solace,"$168,368,427",Dominic Greene,Chile
+2008,10,Horton Hears a Who!,"$154,529,439",The Wickersham Brothers,Japan
+2009,1,Avatar,"$749,766,139",Colonel Miles Quaritch,Unknown
+2009,2,Transformers: Revenge of the Fallen,"$402,111,870",The Fallen,Canada
+2009,3,Harry Potter and the Half-Blood Prince,"$301,959,197",Draco Malfoy,England
+2009,4,The Twilight Saga: New Moon,"$296,623,634",Victoria,Unknown
+2009,5,Up,"$293,004,164",Charles Muntz,Unknown
+2009,6,The Hangover,"$277,322,503",Leslie Chow,
+2009,7,Star Trek,"$257,730,019",Nero,Unknown
+2009,8,The Blind Side,"$255,959,475",,
+2009,9,Alvin and the Chipmunks: The Squeakquel,"$219,614,612",Ian Hawke,
+2009,10,Sherlock Holmes,"$209,028,679",Lord Blackwood,Ireland
+2010,1,Toy Story 3,"$415,004,880",Lotso,Italy
+2010,2,Alice in Wonderland,"$334,191,110",The Red Queen,Japan
+2010,3,Iron Man 2,"$312,433,331",Ivan Vanko / Whiplash,United States
+2010,4,The Twilight Saga: Eclipse,"$300,531,751",Victoria,Australia
+2010,5,Harry Potter and the Deathly Hallows: Part 1,"$295,983,305",Lord Voldemort,England
+2010,6,Inception,"$292,576,195",Mal,United Kingdom
+2010,7,Despicable Me,"$251,639,815",Vector,
+2010,8,Shrek Forever After,"$238,736,787",Rumpelstiltskin,United Kingdom
+2010,9,How to Train Your Dragon,"$217,581,231",Drago Bludvist,
+2010,10,Tangled,"$200,821,936",Mother Gothel,Canada
+2011,1,Harry Potter and the Deathly Hallows: Part 2,"$381,011,219",Lord Voldemort,"Little Hangleton, England"
+2011,2,Transformers: Dark of the Moon,"$352,390,543",Sentinel Prime,
+2011,3,The Twilight Saga: Breaking Dawn - Part 1,"$281,287,133",Aro,
+2011,4,The Hangover Part II,"$254,464,305",Mr. Chow,Australia
+2011,5,Pirates of the Caribbean: On Stranger Tides,"$241,071,802",Blackbeard,Martinique
+2011,6,Fast Five,"$209,837,675",Hernan Reyes,Puerto Rico
+2011,7,Mission: Impossible - Ghost Protocol,"$209,397,903",Kurt Hendricks,United States
+2011,8,Cars 2,"$191,452,396",Sir Miles Axlerod,Australia
+2011,9,Sherlock Holmes: A Game of Shadows,"$186,848,418",Professor Moriarty,Ireland
+2011,10,Thor,"$181,030,624",Loki,Jotunheim
+2012,1,The Avengers,"$623,357,910",Loki,United States
+2012,2,The Dark Knight Rises,"$448,139,099",Bane,Santa Prisca
+2012,3,The Hunger Games,"$408,010,692",President Snow,
+2012,4,Skyfall,"$304,360,277",Raoul Silva,China
+2012,5,The Hobbit: An Unexpected Journey,"$303,003,568",Azog,
+2012,6,The Twilight Saga: Breaking Dawn - Part 2,"$292,324,737",Aro,
+2012,7,The Amazing Spider-Man,"$262,030,663",The Lizard,United States
+2012,8,Brave,"$237,283,207",Mor'du,
+2012,9,Ted,"$218,815,487",Donny,
+2012,10,Madagascar 3: Europe's Most Wanted,"$216,391,482",Captain Chantel DuBois,Monaco
+2013,1,The Hunger Games: Catching Fire,"$424,668,047",President Snow,Unknown
+2013,2,Iron Man 3,"$409,013,994",Aldrich Killian,United States
+2013,3,Frozen,"$400,738,009",Prince Hans,Unknown
+2013,4,Despicable Me 2,"$368,065,385",El Macho,France
+2013,5,Man of Steel,"$291,045,518",General Zod,Krypton
+2013,6,Gravity,"$274,092,705",,
+2013,7,Monsters University,"$268,492,764",Dean Hardscrabble,Unknown
+2013,8,The Hobbit: The Desolation of Smaug,"$258,366,855",Smaug,New Zealand
+2013,9,Fast & Furious 6,"$238,679,850",Owen Shaw,United States
+2013,10,Oz the Great and Powerful,"$234,911,825",Evanora,China
+2014,1,American Sniper,"$350,126,372",Mustafa, Iraq
+2014,2,The Hunger Games: Mockingjay - Part 1,"$337,135,885",President Snow,Austria
+2014,3,Guardians of the Galaxy,"$333,176,600",Ronan the Accuser,Outer Space
+2014,4,Captain America: The Winter Soldier,"$259,766,572",Alexander Pierce,United States
+2014,5,The Lego Movie,"$257,760,692",Lord Business,Gotham City
+2014,6,The Hobbit: The Battle of the Five Armies,"$255,119,788",Smaug,Middle-Earth
+2014,7,Transformers: Age of Extinction,"$245,439,076",Lockdown,
+2014,8,Maleficent,"$241,410,378",King Stefan,United States
+2014,9,X-Men: Days of Future Past,"$233,921,534",Bolivar Trask,Egypt
+2014,10,Big Hero 6,"$222,527,828",Yokai (Robert Callaghan),China
+2015,1,Star Wars: Episode VII - The Force Awakens,"$936,662,225",Kylo Ren,Ireland
+2015,2,Jurassic World,"$652,270,625",Indominus Rex,Costa Rica
+2015,3,Avengers: Age of Ultron,"$459,005,868",Ultron,Russia
+2015,4,Inside Out,"$356,461,711",,
+2015,5,Furious 7,"$353,007,020",Deckard Shaw,Georgia
+2015,6,Minions,"$336,045,770",Scarlet Overkill,
+2015,7,The Hunger Games: Mockingjay - Part 2,"$281,723,902",President Snow,Canada
+2015,8,The Martian,"$228,433,663",,
+2015,9,Cinderella,"$201,151,353",Lady Tremaine,Egypt
+2015,10,Spectre,"$200,074,609",Ernst Stavro Blofeld,
+2016,1,Rogue One: A Star Wars Story,"$532,177,324",Orson Krennic,
+2016,2,Finding Dory,"$486,295,561",,
+2016,3,Captain America: Civil War,"$408,084,349",Helmut Zemo,Germany
+2016,4,The Secret Life of Pets,"$368,623,860",Snowball,Canada
+2016,5,The Jungle Book,"$364,001,123",Shere Khan,India
+2016,6,Deadpool,"$363,070,709",Ajax,
+2016,7,Zootopia,"$341,268,248",Assistant Mayor Bellwether,Canada
+2016,8,Batman v Superman: Dawn of Justice,"$330,360,194",Lex Luthor,Metropolis
+2016,9,Suicide Squad,"$325,100,054",Enchantress,
+2016,10,Sing,"$270,395,425",,
+2017,1,Star Wars: Episode VIII - The Last Jedi,"$620,181,382",Supreme Leader Snoke,Unknown
+2017,2,Beauty and the Beast,"$504,014,165",Gaston,France
+2017,3,Wonder Woman,"$412,563,408",Ares,Greece
+2017,4,Jumanji: Welcome to the Jungle,"$404,515,480",Russell Van Pelt,United States
+2017,5,Guardians of the Galaxy Vol. 2,"$389,813,101",Ego,United States
+2017,6,Spider-Man: Homecoming,"$334,201,140",Vulture,United States
+2017,7,It,"$327,481,748",Pennywise,"Derry, Maine"
+2017,8,Thor: Ragnarok,"$315,058,289",Hela,Norway
+2017,9,Despicable Me 3,"$264,624,300",Balthazar Bratt,
+2017,10,Justice League,"$229,024,295",Steppenwolf,United States
+2018,1,Black Panther,"$700,059,566",Erik Killmonger,Wakanda
+2018,2,Avengers: Infinity War,"$678,815,482",Thanos,Titan
+2018,3,Incredibles 2,"$608,581,744",Screenslaver,United States
+2018,4,Jurassic World: Fallen Kingdom,"$417,719,760",Eli Mills,Ecuador
+2018,5,Aquaman,"$335,061,807",Orm,Atlantis
+2018,6,Deadpool 2,"$318,491,426",Cable,United States
+2018,7,The Grinch,"$271,478,510",The Grinch,Whoville
+2018,8,Mission: Impossible - Fallout,"$220,159,104",Solomon Lane,China
+2018,9,Ant-Man and the Wasp,"$216,648,740",Ghost,United Kingdom
+2018,10,Bohemian Rhapsody,"$216,428,042",Paul Prenter,
+2019,1,Avengers: Endgame,"$858,373,000",Thanos,Titan
+2019,2,The Lion King,"$543,638,043",Scar,Japan
+2019,3,Star Wars: Episode IX - The Rise of Skywalker,"$515,202,542",Emperor Palpatine,United States
+2019,4,Frozen II,"$477,373,578",,
+2019,5,Toy Story 4,"$434,038,008",Gabby Gabby,
+2019,6,Captain Marvel,"$426,829,839",Yon-Rogg,
+2019,7,Spider-Man: Far from Home,"$390,532,085",Mysterio,United States
+2019,8,Aladdin,"$355,559,216",Jafar,Agrabah
+2019,9,Joker,"$335,451,311",,United States
+2019,10,Jumanji: The Next Level,"$320,314,960",Jurgen the Brutal,
+2020,1,Bad Boys for Life,"$206,305,244",Isabel Aretas,China
+2020,2,Sonic the Hedgehog,"$148,974,665",Dr. Robotnik,Japan
+2020,3,Birds of Prey,"$84,158,461",Black Mask,Gotham City
+2020,4,Dolittle,"$77,047,065",Dr. Blair Müdfly,
+2020,5,The Invisible Man,"$70,410,000",Adrian Griffin,
+2020,6,The Call of the Wild,"$62,342,368",Hal,"Urbana, Illinois"
+2020,7,Onward,"$61,555,145",,
+2020,8,The Croods: A New Age,"$58,568,815",,
+2020,9,Tenet,"$58,504,105",Andrei Sator,United Kingdom
+2020,10,Wonder Woman 1984,"$46,801,036",Maxwell Lord,United States
+2021,1,Spider-Man: No Way Home,"$804,793,477",Green Goblin,"New York City, USA"
+2021,2,Shang-Chi and the Legend of the Ten Rings,"$224,543,292",The Mandarin,Mongolia
+2021,3,Venom: Let There Be Carnage,"$213,550,366",Carnage,United States
+2021,4,Black Widow,"$183,651,655",Taskmaster,Russia
+2021,5,F9: The Fast Saga,"$173,005,945",Jakob Toretto,United Kingdom
+2021,6,Eternals,"$164,870,234",Deviants,Unknown
+2021,7,Sing 2,"$162,790,990",Jimmy Crystal,Austria
+2021,8,No Time to Die,"$160,891,007",Lyutsifer Safin,United Kingdom
+2021,9,A Quiet Place Part II,"$160,072,261",The Creatures,Canada
+2021,10,Ghostbusters: Afterlife,"$129,360,575",Gozer the Gozerian,United States
+2022,1,Top Gun: Maverick,"$718,732,821",,
+2022,2,Avatar: The Way of Water,"$684,075,767",RDA,France
+2022,3,Black Panther: Wakanda Forever,"$453,829,060",Namor,Georgia
+2022,4,Doctor Strange in the Multiverse of Madness,"$411,331,607",Scarlet Witch,Germany
+2022,5,Jurassic World: Dominion,"$376,851,080",BioSyn,Malta
+2022,6,Minions: The Rise of Gru,"$370,270,765",The Vicious 6,United Kingdom
+2022,7,The Batman,"$369,345,583",The Riddler,Gotham City
+2022,8,Thor: Love and Thunder,"$343,256,830",Gorr the God Butcher,Iceland
+2022,9,Sonic the Hedgehog 2,"$190,872,904",Dr. Robotnik,Japan
+2022,10,Puss in Boots: The Last Wish,"$186,090,535",Death (the wolf),Fairy tale world
+2023,1,Barbie,"$636,238,421",,New Mexico
+2023,2,The Super Mario Bros. Movie,"$574,934,330",Bowser,United States
+2023,3,Spider-Man: Across the Spider-Verse,"$381,311,319",The Spot,United States
+2023,4,Guardians of the Galaxy Vol. 3,"$358,995,815",High Evolutionary,Georgia
+2023,5,Oppenheimer,"$329,862,540",,
+2023,6,The Little Mermaid,"$298,172,056",Ursula,Denmark
+2023,7,Wonka,"$218,402,312",The Chocolate Cartel,United Kingdom
+2023,8,Ant-Man and the Wasp: Quantumania,"$214,504,909",Kang the Conqueror,Egypt
+2023,9,John Wick: Chapter 4,"$187,131,806",The High Table,United States
+2023,10,Sound of Freedom,"$184,178,046",Human traffickers,India
