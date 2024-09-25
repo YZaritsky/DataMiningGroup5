@@ -60,19 +60,16 @@ def calculate_show_metrics(all_shows, name_data):
                 total_percentage_change = ((total_avg_count_after - total_debut_count) / total_debut_count) * 100
             else:
                 total_percentage_change = 0
-            weighted_sum = sum(p * d for p, d in zip(percentage_jumps, debut_counts))
-            weighted_avg_percentage_jump = weighted_sum / total_debut_count if total_debut_count > 0 else 0
+            
             show_metrics[show_name] = {
                 'Average Percentage Jump': avg_percentage_jump,
-                'Total Percentage Change': total_percentage_change,
-                'Weighted Average Percentage Jump': weighted_avg_percentage_jump,
+                'Total Percentage Change/Weighted Average Percentage Jump': total_percentage_change,
                 'Number of Names': len(percentage_jumps)
             }
         else:
             show_metrics[show_name] = {
                 'Average Percentage Jump': None,
-                'Total Percentage Change': None,
-                'Weighted Average Percentage Jump': None,
+                'Total Percentage Change/Weighted Average Percentage Jump': None,
                 'Number of Names': 0
             }
     return show_metrics
@@ -132,7 +129,7 @@ def scatter_plot_linear_regression(all_shows, name_data, show_metrics):
     labels = []
     for show_name, color in show_name_to_color.items():
         metrics = show_metrics.get(show_name, {})
-        total_percentage_change = metrics.get('Total Percentage Change')
+        total_percentage_change = metrics.get('Total Percentage Change/Weighted Average Percentage Jump')
         if total_percentage_change is not None:
             total_pct_change_str = f" ({total_percentage_change:.1f}%)"
         else:
@@ -163,23 +160,6 @@ scatter_plot_linear_regression(all_shows, name_data, show_metrics)
 for show_name, metrics in show_metrics.items():
     print(f"Show: {show_name}")
     print(f"  Average Percentage Jump: {metrics['Average Percentage Jump']}")
-    print(f"  Total Percentage Change: {metrics['Total Percentage Change']}")
-    print(f"  Weighted Average Percentage Jump: {metrics['Weighted Average Percentage Jump']}")
+    print(f"  Total Percentage Change/Weighted Average Percentage Jump: {metrics['Total Percentage Change/Weighted Average Percentage Jump']}")
     print(f"  Number of Names Analyzed: {metrics['Number of Names']}\n")
 
-def calculate_overall_metrics(all_shows, name_data):
-    total_debut_count = 0
-    total_avg_count_after = 0
-    weighted_sum = 0
-    for show in all_shows:
-        debut_year = show['release_year']
-        for character in show['characters']:
-            first_name = character.split()[0]
-            debut_count = get_name_counts(first_name, name_data, debut_year)[0]
-            counts_after_debut = get_name_counts(first_name, data=name_data, start_year=debut_year)[1:8]
-            avg_count_after_debut = sum(counts_after_debut) / len(counts_after_debut) if counts_after_debut else 0
-            percentage_jump = get_percentage_jump(first_name, name_data, debut_year)
-            if debut_count > 0:
-                total_debut_count += debut_count
-                total_avg_count_after += avg_count_after_debut
-                weighted_sum += percentage_jump * debut_count
