@@ -89,10 +89,10 @@ def main():
     os.makedirs('output', exist_ok=True)
 
     # Save the data to a JSON file
-    with open('output/tv_shows_new_release2.json', 'w') as f:
+    with open('output/tv_shows_new_release.json', 'w') as f:
         json.dump(tv_show_data, f, indent=4)
 
-    print("Data saved to output/tv_shows_new_release2.json")
+    print("Data saved to output/tv_shows_new_release.json")
 
 
 if __name__ == "__main__":
