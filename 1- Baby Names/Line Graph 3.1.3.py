@@ -6,7 +6,7 @@ import json
 
 def load_name_data(folder_path):
     data = {}
-    for year in range(1900, 2023):
+    for year in range(1900, 2023+1):
         file_path = os.path.join(folder_path, f'yob{year}.txt')
         if os.path.exists(file_path):
             df = pd.read_csv(file_path, names=['name', 'gender', 'count'])
@@ -15,7 +15,7 @@ def load_name_data(folder_path):
 
 def get_name_counts(name, data, start_year):
     counts = []
-    for year in range(start_year, 2023):
+    for year in range(start_year, 2023+1):
         if year in data:
             count = data[year][data[year]['name'] == name]['count'].sum()
             counts.append(count)
@@ -46,12 +46,12 @@ def plot_individual_graphs(all_shows, name_data, selected_shows=None, show_dotte
 
             if show_dotted:
                 ax.plot(range(start_year, release_year + 1), pre_release_counts, linestyle=':', color=colors[j % len(colors)])
-                ax.plot(range(release_year, 2023), post_release_counts, linestyle='-', color=colors[j % len(colors)])
+                ax.plot(range(release_year, 2023+1), post_release_counts, linestyle='-', color=colors[j % len(colors)])
                 ax.scatter(release_year, counts[release_year - start_year], color=colors[j % len(colors)], marker='o', s=60, zorder=5)
             else:
-                ax.plot(range(start_year, 2023), counts, color=colors[j % len(colors)])
+                ax.plot(range(start_year, 2023+1), counts, color=colors[j % len(colors)])
 
-            ax.annotate(first_name, xy=(2022, counts[-1]), xytext=(5, 0), textcoords='offset points',
+            ax.annotate(first_name, xy=(2023, counts[-1]), xytext=(5, 0), textcoords='offset points',
                         color=colors[j % len(colors)], fontsize=6.5, fontweight='bold')
 
         ax.set_title(f"{show['tv_show_name']} ({release_year})", fontsize=10)
@@ -86,7 +86,7 @@ def plot_average_popularity(all_shows, name_data, file_name, selected_shows=None
             counts = get_name_counts(first_name, name_data, start_year)
             show_counts.append(counts)
 
-        show_average = np.mean(show_counts, axis=0) if show_counts else np.zeros(len(range(start_year, 2023)))
+        show_average = np.mean(show_counts, axis=0) if show_counts else np.zeros(len(range(start_year, 2023+1)))
         all_show_averages.append(show_average)
 
         release_year = show['release_year']
@@ -95,16 +95,16 @@ def plot_average_popularity(all_shows, name_data, file_name, selected_shows=None
 
         if show_dotted:
             plt.plot(range(start_year, release_year + 1), pre_release_average, linestyle=':', color=colors[i])
-            plt.plot(range(release_year, 2023), post_release_average, linestyle='-', color=colors[i])
+            plt.plot(range(release_year, 2023+1), post_release_average, linestyle='-', color=colors[i])
             plt.scatter(release_year, show_average[release_year - start_year], color=colors[i], marker='o', s=100, zorder=5)
         else:
-            plt.plot(range(start_year, 2023), show_average, label=f"{show['tv_show_name']}: {show['release_year']}", color=colors[i])
+            plt.plot(range(start_year, 2023+1), show_average, label=f"{show['tv_show_name']}: {show['release_year']}", color=colors[i])
 
         handles.append(plt.Line2D([0], [0], color=colors[i], linestyle='-'))
         labels.append(f"{show['tv_show_name']} ({show['release_year']})")
 
     overall_average = np.mean(all_show_averages, axis=0)
-    plt.plot(range(1990, 2023), overall_average, label="Overall Average (All 50 Names)", color='black', linestyle='-', linewidth=2.3, alpha=0.7)
+    plt.plot(range(1990, 2023+1), overall_average, label="Overall Average (All 50 Names)", color='black', linestyle='-', linewidth=2.3, alpha=0.7)
 
     handles.append(plt.Line2D([0], [0], color='black', linestyle='-', linewidth=2.5))
     labels.append("Overall Average (All 50 Names)")
@@ -143,5 +143,5 @@ if __name__ == "__main__":
 
     file_name = "line_graph_A4_vertical.pdf"
 
-    main_plot(all_shows, name_data, file_name, plot_averages=False, plot_individuals=True, show_dotted=True)
-    main_plot(all_shows, name_data, file_name, plot_averages=True, plot_individuals=False)
+    main_plot(all_shows, name_data, file_name, plot_averages=True, plot_individuals=True, show_dotted=True)
+    main_plot(all_shows, name_data, file_name, plot_averages=True, plot_individuals=False)  # For average graph
