@@ -23,7 +23,7 @@ def get_counts(name, data, start_year):
     return counts
 
 def plot_trends(shows, name_data, file_name):
-    plt.figure(figsize=(8, 4))
+    plt.figure(figsize=(8.5, 4))
     colors = ['blue', 'red', 'green', 'orange', 'purple', 'magenta', 'yellow', 'brown', 'pink', 'black']
     color_index = 0
 
@@ -40,7 +40,7 @@ def plot_trends(shows, name_data, file_name):
                 color_index += 1
 
     if color_index > 0:
-        plt.title('7-Year Popularity Trends for Names with 0 Babies at TV Show Debut')
+        plt.title('7-Year Popularity Trends for Names with 0-5 Babies at TV Show Debut')
         plt.xlabel('Years After Debut')
         plt.ylabel('Number of Babies')
         plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left', fontsize='small')
